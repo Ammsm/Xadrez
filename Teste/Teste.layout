@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Peca.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1191" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="Sistema.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="283" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="Rei.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1695" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Cavalo.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="598" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Bispo.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1406" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="Peca.cpp" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="800" topLine="51" />
+		</Cursor>
+	</File>
+	<File name="Piao.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2049" topLine="47" />
+		</Cursor>
+	</File>
+	<File name="Torre.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1548" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="Piao.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="635" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Nulidade.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="216" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Cavalo.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1675" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="Rainha.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="598" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Equipa.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1265" topLine="85" />
+		</Cursor>
+	</File>
+	<File name="Equipa.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="767" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="Tab.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1052" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="Rainha.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1660" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="Rei.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="614" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Bispo.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="594" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="Torre.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="594" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Nulidade.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="58" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Sistema.cpp" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10770" topLine="261" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="144" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Tab.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="334" topLine="3" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
