@@ -1,2 +1,2 @@
-# Chess
- Yes
+# Xadrez
+Joguem, páh
